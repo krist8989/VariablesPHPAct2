@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 
 <?php
 $name = "Krist Raymund Jareno";
@@ -17,6 +14,3 @@ echo "Course: " . $course . "<br>";
 echo "Subject: " . $subject . "<br>";
 echo "Student: " . ($student ? "Yes" : "No") . "<br>";
 ?>
-
-</body>
-</html>
